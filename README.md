@@ -1,2 +1,2 @@
-# terraform-aws-bastion-rkr
-A simple module for a Bastion Host
+# terraform-aws-module
+A simple template for an AWS Module
